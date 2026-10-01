@@ -1,0 +1,14 @@
+{
+  "grade6_photosynthesis.txt": {
+    "hash": "e20f8dbd88a8b3d59a1411308c73cbbabffb3e2c2c69a9aa5047637719d42aef",
+    "document_id": "0e7d8b72abe8bcfb0c4cd68688cf3de2",
+    "chunks": 1,
+    "file_type": ".txt"
+  },
+  "test_ai.txt": {
+    "hash": "fff2684101eea13fe447af9faa96a92373326d5c1e30d873231eab76ec1656c8",
+    "document_id": "eeee6cacb3781d284b7a942842814da9",
+    "chunks": 1,
+    "file_type": ".txt"
+  }
+}

@@ -1,0 +1,9 @@
+Artificial Intelligence
+
+Artificial Intelligence (AI) is the field of computer science focused on creating systems that can perform tasks that normally require human intelligence.
+
+Machine learning is a subset of AI in which models learn patterns from data. Deep learning is a further subset of machine learning that uses neural networks with many layers.
+
+Generative AI refers to models that can generate new content such as text, images, audio, video, and code.
+
+Large Language Models (LLMs) are AI models trained on large amounts of text to understand and generate natural language.
